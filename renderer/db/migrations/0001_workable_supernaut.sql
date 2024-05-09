@@ -1,0 +1,1 @@
+ALTER TABLE state ADD `country` text(255) DEFAULT 'US' NOT NULL;
